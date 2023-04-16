@@ -1,5 +1,5 @@
 import React from 'react';
-import Card from '../components/index';
+import Card from "../components";
 import Programming from '../assets/programação.jpg'
 
 
